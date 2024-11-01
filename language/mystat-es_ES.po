@@ -1,0 +1,1223 @@
+# Translation of mySTAT in Spanish (Spain)
+# This file is distributed under the same license as the mySTAT package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-24 20:29+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.0.1\n"
+"Language: es_ES\n"
+"Project-Id-Version: mySTAT\n"
+"POT-Creation-Date: \n"
+"Last-Translator: Evgeniy Smyshlayev <sebbio@gmail.com>\n"
+"Language-Team: \n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: report/af_clickMap_377da97c-3097-4c0b-9315-125270b9f935.class.php:15
+msgid "Click heatmap"
+msgstr ""
+
+#: report/fb_settings_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:53
+msgid "Collect click information"
+msgstr "Recopilar información de clic"
+
+#: report/fb_settings_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:54
+msgid "Use proxy server for graphics (for China users)"
+msgstr "Utilizar servidor proxy para gráficos (para usuarios de China)"
+
+#: report/fb_settings_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:55
+msgid "Place of insert JS code"
+msgstr "Lugar del código JS del inserto"
+
+#: report/fb_settings_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:56
+msgid "In footer widget"
+msgstr "En el widget de footer"
+
+#: report/fb_settings_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:57
+msgid "After render page"
+msgstr "Después de la página de renderizado"
+
+#: report/fb_settings_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:49
+msgid "Your IP"
+msgstr "Tu dirección Ip"
+
+#: report/fb_settings_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:50
+msgid "Network mask"
+msgstr "Máscara de red"
+
+#: report/fb_settings_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:51
+msgid "Add"
+msgstr "Añadir"
+
+#: report/fb_settings_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:52
+msgid "Page opens by default"
+msgstr "Se abre la página de forma predeterminada"
+
+#: report/fb_settings_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:58
+msgid "Save"
+msgstr "Salvar"
+
+#: report/fb_settings_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:17
+msgid "Settings"
+msgstr "Ajustes"
+
+#: report/fb_settings_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:29
+msgid "Configuring the plugin"
+msgstr "Configurar el plugin"
+
+#: report/fb_settings_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:31
+msgid "Settings of plugin"
+msgstr "Ajustes de plug-in"
+
+#: report/fb_settings_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:32
+msgid "Storage time for visitor data"
+msgstr "Tiempo de almacenamiento para datos de visitantes"
+
+#: report/fb_settings_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:33
+msgid "Month"
+msgstr "Mes"
+
+#: report/fb_settings_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:34
+msgid "Quarter"
+msgstr "Trimestre"
+
+#: report/fb_settings_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:35
+msgid "Four months"
+msgstr "Cuatro meses"
+
+#: report/fb_settings_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:36
+msgid "Half-year"
+msgstr "Medio año"
+
+#: report/fb_settings_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:37
+msgid "Year"
+msgstr "Año"
+
+#: report/fb_settings_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:38
+msgid "Two years"
+msgstr "Dos años"
+
+#: report/fb_settings_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:39
+msgid "Minimum access permissions to display statistics"
+msgstr "Permisos mínimos de acceso para mostrar estadísticas"
+
+#: report/fb_settings_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:40
+msgid "Administrator"
+msgstr "Administrador"
+
+#: report/fb_settings_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:41
+msgid "Editor"
+msgstr "Editor"
+
+#: report/fb_settings_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:42
+msgid "User"
+msgstr "Usuario"
+
+#: report/fb_settings_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:43
+msgid "Entered an incorrect IP address."
+msgstr "Ingresó una dirección IP incorrecta."
+
+#: report/fb_settings_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:44
+msgid "Chosen retention period is less than it was previously installed. This may result in the removal of obsolete data. Continue?"
+msgstr "El período de retención elegido es menor que el que se había instalado previamente. Esto puede resultar en la eliminación de datos obsoletos. ¿Continuar?"
+
+#: report/fb_settings_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:45
+msgid "Delete the IP address?"
+msgstr "¿Eliminar la dirección IP?"
+
+#: report/fb_settings_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:46
+msgid "Do not keep statistics from specified IP addresses"
+msgstr "No guarde estadísticas de direcciones IP especificadas"
+
+#: report/fb_settings_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:47
+msgid "Add IP address"
+msgstr "Agregar dirección IP"
+
+#: report/ei_visitorDevices_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:53
+msgid "Devices from which visitors searched your site"
+msgstr "Dispositivos desde los que los visitantes han buscado su sitio"
+
+#: driver/expressionengine.class.php:103 driver/joomla.class.php:97
+#: driver/wordpress.class.php:940
+msgid "You need set up your PHP with ZIP extension"
+msgstr "Usted necesita configurar su PHP con la extensión ZIP"
+
+#: report/eh_screenResolution_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:65
+msgid "Total unidentified resolutions"
+msgstr "Total de resoluciones no identificados"
+
+#: report/ei_visitorDevices_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:17
+msgid "Visitor devices"
+msgstr "Dispositivos de visitantes"
+
+#: report/ei_visitorDevices_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:55
+msgid "Device name"
+msgstr "Nombre del dispositivo"
+
+#: report/ei_visitorDevices_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:57
+msgid "Total unique devices"
+msgstr "Dispositivos únicos totales"
+
+#: report/ei_visitorDevices_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:58
+msgid "Total unidentified devices"
+msgstr "Dispositivos no identificados totales"
+
+#: report/ef_browsers_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:80
+msgid "Tor network"
+msgstr "Red TOR"
+
+#: report/dd_geoCity_3fbec588-fbf5-4521-a406-64689b250530.class.php:17
+msgid "Cities of visitors"
+msgstr "Ciudades de los visitantes"
+
+#: report/dd_geoCity_3fbec588-fbf5-4521-a406-64689b250530.class.php:59
+msgid "City"
+msgstr "Ciudad"
+
+#: report/dd_geoCity_3fbec588-fbf5-4521-a406-64689b250530.class.php:61
+msgid "Visitors with unidentified city"
+msgstr "Los visitantes con la ciudad no identificada"
+
+#: driver/expressionengine.class.php:97 driver/joomla.class.php:92
+#: driver/wordpress.class.php:935
+msgid "You need set up your PHP with ZLIB extension"
+msgstr "Usted necesita configurar su PHP con la extensión ZLIB"
+
+#: driver/expressionengine.class.php:109 driver/joomla.class.php:102
+#: driver/wordpress.class.php:945
+msgid "You need set up your PHP with DOM extension"
+msgstr "Usted necesita configurar su PHP con la extensión DOM"
+
+#: driver/expressionengine.class.php:114 driver/joomla.class.php:107
+#: driver/wordpress.class.php:950
+msgid "You need set up your PHP with XSL extension"
+msgstr "Usted necesita configurar su PHP con la extensión XSL"
+
+#: driver/wordpress.class.php:1376
+msgid "Site Visitor Statistics"
+msgstr "Estadísticas del sitio de los visitantes"
+
+#: driver/wordpress.class.php:1724
+msgid "Title"
+msgstr "Título"
+
+#: driver/wordpress.class.php:1730
+msgid "Today"
+msgstr "Hoy"
+
+#: driver/wordpress.class.php:1731
+msgid "Yesterday"
+msgstr "Ayer"
+
+#: driver/wordpress.class.php:1732
+msgid "Last week (last 7 days)"
+msgstr "La semana pasada (7 días)"
+
+#: driver/wordpress.class.php:1733
+msgid "Last month (last 30 days)"
+msgstr "El mes pasado (últimos 30 días)"
+
+#: driver/wordpress.class.php:1738
+msgid "Map of visitors"
+msgstr "Mapa de los visitantes"
+
+#: driver/wordpress.class.php:1742
+msgid "Top 10 countries of visitors"
+msgstr "Top 10 países de los visitantes"
+
+#: driver/wordpress.class.php:1746
+msgid "Flags of countries visitors"
+msgstr "Banderas de los países visitantes"
+
+#: driver/wordpress.class.php:1751
+msgid "Information about the visitor"
+msgstr "Información sobre el visitante"
+
+#: driver/wordpress.class.php:1759 driver/wordpress.class.php:1767
+#: driver/wordpress.class.php:1780
+msgid "Text label"
+msgstr "Etiqueta de texto"
+
+#: driver/wordpress.class.php:1772
+msgid "Graph of visitors"
+msgstr "Gráfica de los visitantes"
+
+#: driver/wordpress.class.php:1785
+msgid "Display style widget"
+msgstr "Widget de estilo de visualización"
+
+#: driver/wordpress.class.php:1787
+msgid "No style"
+msgstr "No hay un estilo"
+
+#: driver/wordpress.class.php:1788
+msgid "Default style"
+msgstr "Estilo por Defecto"
+
+#: lib/mystat.class.php:504
+msgid "Export this report as an XML file"
+msgstr "Exportar este informe como un archivo XML"
+
+#: driver/expressionengine.class.php:74 driver/expressionengine.class.php:92
+#: driver/expressionengine.class.php:97 driver/expressionengine.class.php:103
+#: driver/expressionengine.class.php:109 driver/expressionengine.class.php:114
+#: driver/joomla.class.php:81 driver/joomla.class.php:87
+#: driver/joomla.class.php:92 driver/joomla.class.php:97
+#: driver/joomla.class.php:102 driver/joomla.class.php:107
+#: driver/joomla.class.php:118 driver/wordpress.class.php:658
+#: driver/wordpress.class.php:665 driver/wordpress.class.php:676
+#: driver/wordpress.class.php:688 driver/wordpress.class.php:886
+#: driver/wordpress.class.php:930 driver/wordpress.class.php:935
+#: driver/wordpress.class.php:940 driver/wordpress.class.php:945
+#: driver/wordpress.class.php:950 driver/wordpress.class.php:959
+#: driver/wordpress.class.php:1376 driver/wordpress.class.php:1725
+msgid "My Statistics"
+msgstr "Mis estadísticas"
+
+#: driver/expressionengine.class.php:92 driver/joomla.class.php:87
+#: driver/wordpress.class.php:930
+msgid "Plugin has no permissions to write to the directory \"cache\". Plugin can not independently resolve this error. Contact your administrator."
+msgstr "El enchufe no tiene permiso para escribir en el directorio \"cache\". enchufar no puede resolver de forma independiente este error. Contacte su administrador."
+
+#: driver/expressionengine.class.php:74 driver/joomla.class.php:118
+#: driver/wordpress.class.php:959
+msgid "Need to update definitions"
+msgstr "Debe actualizar las definiciones"
+
+#: driver/expressionengine.class.php:74 driver/joomla.class.php:118
+#: driver/wordpress.class.php:960
+msgid "An error occurred during the update, please, try again later."
+msgstr "Error ocurrido durante la actualización por favor inténtelo de nuevo mas tarde."
+
+#: driver/wordpress.class.php:960
+msgid "Update"
+msgstr "Actualización"
+
+#: driver/wordpress.class.php:1052
+msgid "User registrations"
+msgstr "Registro de usuario"
+
+#: driver/wordpress.class.php:1052 driver/wordpress.class.php:1136
+#: driver/wordpress.class.php:1218
+msgid "Within 30 days"
+msgstr "En 30 días"
+
+#: driver/wordpress.class.php:1052 driver/wordpress.class.php:1136
+#: driver/wordpress.class.php:1218
+msgid "Throughout the whole period"
+msgstr "A través de todo el periodo"
+
+#: driver/wordpress.class.php:1076
+msgid "Users registered"
+msgstr "Usuario registrado"
+
+#: driver/wordpress.class.php:1136 driver/wordpress.class.php:1160
+msgid "User posts"
+msgstr "Mensaje de usuario"
+
+#: driver/wordpress.class.php:1218 driver/wordpress.class.php:1242
+msgid "User comments"
+msgstr "Comentarios de usuario"
+
+#: driver/wordpress.class.php:1728 lib/mystat.class.php:503
+msgid "Report display period"
+msgstr "Periodo de visualización de informe"
+
+#: lib/mystat.class.php:522
+msgid "Audience"
+msgstr "Audiencia"
+
+#: lib/mystat.class.php:523
+msgid "Pages"
+msgstr "Páginas"
+
+#: lib/mystat.class.php:524
+msgid "Traffic sources"
+msgstr "Fuente de tráfico"
+
+#: lib/mystat.class.php:525
+msgid "Geography"
+msgstr "Geografía"
+
+#: lib/mystat.class.php:526
+msgid "System"
+msgstr "Sistema"
+
+#: lib/mystat.class.php:527
+msgid "Other"
+msgstr "Otros"
+
+#: report/_defaultpage.class.php:21
+msgid "Access limited"
+msgstr "Acceso limitado"
+
+#: report/_defaultpage.class.php:22
+msgid "Detailed statistics is available only to the full version users."
+msgstr "Estadísticas detalladas están disponibles sólo para los usuarios de la versión completa."
+
+#: report/_defaultpage.class.php:23
+msgid "PURCHASE FULL VERSION"
+msgstr "COMPRAR LA VERSIÓN COMPLETA"
+
+#: report/_defaultpage.class.php:24
+msgid "ENTER PURCHASE CODE"
+msgstr "INTRODUZCA EL CÓDIGO DE COMPRA"
+
+#: report/_defaultpage.class.php:25
+msgid "or"
+msgstr "o"
+
+#: report/_defaultpage.class.php:26
+msgid "Domain to be deleted"
+msgstr "Dominio  que desea eliminar"
+
+#: report/_defaultpage.class.php:27
+msgid "Purchase code"
+msgstr "Código de compra"
+
+#: report/_defaultpage.class.php:28
+msgid "Check code"
+msgstr "Comprobar el código"
+
+#: report/_defaultpage.class.php:29
+msgid "The code you entered is invalid!"
+msgstr "El código introducido no es válido!"
+
+#: report/_defaultpage.class.php:30
+msgid "How do I find out my purchase code?"
+msgstr "Como encontrar  mi código de compra?"
+
+#: report/_defaultpage.class.php:31
+msgid "License validity term expired on \"{date}\". You need to repurchase the full version."
+msgstr "La validez de los términos de licencia caducan en \"{date}\". Es necesario la recompra de la versión completa"
+
+#: report/_defaultpage.class.php:32
+msgid "Delete domain"
+msgstr "Borrar dominio"
+
+#: report/_defaultpage.class.php:33
+msgid "Your license allows for installation on no more than \"{max}\" site(s). To include this site into the licensed list, please, enter the number of valid purchase code and state the site, the license to which will no longer apply."
+msgstr "Tu licencia solo permite la instalación de no más de \"{max}\" sitio(s). Para incluir este sitio en la lista de licencia, por favor, introduzca el número de código válido de compra e indique el sitio, la licencia para la cual ya no se aplicará."
+
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:15
+msgid "Summary statistics"
+msgstr "Sumario estadístico "
+
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:34
+#: report/ab_siteUsage_377da97c-3097-4c0b-9315-125270b9f935.class.php:24
+msgid "from %d to %d hours"
+msgstr "desde %d a %d horas"
+
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:76
+#: report/ab_siteUsage_377da97c-3097-4c0b-9315-125270b9f935.class.php:42
+#: report/fa_dbSize_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:23
+msgid "Sunday"
+msgstr "Domingo"
+
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:77
+#: report/ab_siteUsage_377da97c-3097-4c0b-9315-125270b9f935.class.php:43
+#: report/fa_dbSize_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:24
+msgid "Monday"
+msgstr "Lunes"
+
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:78
+#: report/ab_siteUsage_377da97c-3097-4c0b-9315-125270b9f935.class.php:44
+#: report/fa_dbSize_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:25
+msgid "Tuesday"
+msgstr "Martes"
+
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:79
+#: report/ab_siteUsage_377da97c-3097-4c0b-9315-125270b9f935.class.php:45
+#: report/fa_dbSize_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:26
+msgid "Wednesday"
+msgstr "Miércoles"
+
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:80
+#: report/ab_siteUsage_377da97c-3097-4c0b-9315-125270b9f935.class.php:46
+#: report/fa_dbSize_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:27
+msgid "Thursday"
+msgstr "Jueves"
+
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:81
+#: report/ab_siteUsage_377da97c-3097-4c0b-9315-125270b9f935.class.php:47
+#: report/fa_dbSize_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:28
+msgid "Friday"
+msgstr "Viernes"
+
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:82
+#: report/ab_siteUsage_377da97c-3097-4c0b-9315-125270b9f935.class.php:48
+#: report/fa_dbSize_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:29
+msgid "Saturday"
+msgstr "Sábado"
+
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:87
+#: report/ab_siteUsage_377da97c-3097-4c0b-9315-125270b9f935.class.php:53
+#: report/cf_searchQuery_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:34
+#: report/fa_dbSize_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:33
+msgid "m-d, Y"
+msgstr "j/n/Y"
+
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:212
+msgid "Short summary on various indicators of your site visiting statistics"
+msgstr "Breve resumen de varios indicadores de estadísticas de su sitio de visita."
+
+#: driver/wordpress.class.php:1755 driver/wordpress.class.php:1760
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:214
+msgid "Users visiting the site now"
+msgstr "Usuarios visitando el sitio ahora"
+
+#: driver/wordpress.class.php:1763 driver/wordpress.class.php:1768
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:215
+msgid "Now your site is scanned (by robots or spiders)"
+msgstr "Ahora tu sitio es escaneado ( por robots o arañas )"
+
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:216
+msgid "Details"
+msgstr "Detalles"
+
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:217
+#: report/ab_siteUsage_377da97c-3097-4c0b-9315-125270b9f935.class.php:106
+#: report/ac_pageViewPerUser_377da97c-3097-4c0b-9315-125270b9f935.class.php:94
+#: report/bc_domainNames_72fb852f-71e7-4802-af52-8f4bf17b091b.class.php:125
+#: report/da_ipAdressesUser_3fbec588-fbf5-4521-a406-64689b250530.class.php:51
+#: report/db_ipAdressesRobot_3fbec588-fbf5-4521-a406-64689b250530.class.php:51
+msgid "Page views"
+msgstr "Páginas vistas"
+
+#: driver/wordpress.class.php:1643
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:218
+#: report/ab_siteUsage_377da97c-3097-4c0b-9315-125270b9f935.class.php:107
+#: report/bc_domainNames_72fb852f-71e7-4802-af52-8f4bf17b091b.class.php:126
+#: report/ed_robots_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:76
+#: report/ee_operatingSystem_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:94
+#: report/ef_browsers_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:81
+#: report/eg_screenDepth_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:64
+#: report/eh_screenResolution_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:61
+msgid "Unique"
+msgstr "Único"
+
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:219
+#: report/ab_siteUsage_377da97c-3097-4c0b-9315-125270b9f935.class.php:108
+#: report/bc_domainNames_72fb852f-71e7-4802-af52-8f4bf17b091b.class.php:127
+#: report/ca_referrer_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:81
+#: report/cb_refDomain_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:78
+#: report/ea_userAgentUser_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:59
+#: report/ec_acceptLanguage_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:59
+#: report/ei_visitorDevices_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:56
+msgid "Visitors"
+msgstr "Visitantes"
+
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:220
+#: report/ab_siteUsage_377da97c-3097-4c0b-9315-125270b9f935.class.php:109
+#: report/bc_domainNames_72fb852f-71e7-4802-af52-8f4bf17b091b.class.php:128
+#: report/eb_userAgentRobot_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:59
+#: report/ed_robots_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:17
+msgid "Robots and spiders"
+msgstr "Robots y arañas"
+
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:221
+msgid "Geography of visitors"
+msgstr "Geografía de visitantes"
+
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:222
+msgid "Unique visitors today"
+msgstr "Únicos visitantes hoy"
+
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:223
+msgid "Unique visitors yesterday"
+msgstr "Únicos visitantes ayer"
+
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:224
+msgid "Unique robots or spiders today"
+msgstr "Únicos robots o arañas hoy"
+
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:225
+msgid "Unique robots or spiders yesterday"
+msgstr "Únicos robot o arañas ayer"
+
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:226
+msgid "Sources of visitors"
+msgstr "Fuente de visitantes"
+
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:227
+msgid "User platforms"
+msgstr "Plataforma de usuario"
+
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:228
+msgid "Mobile devices"
+msgstr "Dispositivo móvil"
+
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:229
+msgid "Tablet computers"
+msgstr "Tablet ordenadores"
+
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:230
+msgid "Desktop computers"
+msgstr "Computadora de escritorio"
+
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:231
+#: report/cc_searchEngine_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:17
+msgid "Search engines"
+msgstr "Motores de búsqueda"
+
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:232
+#: report/cd_socialNetwork_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:17
+msgid "Social networks"
+msgstr "Redes sociales"
+
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:233
+#: report/ce_mailService_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:17
+msgid "Mail services"
+msgstr "Servicio de correo"
+
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:234
+msgid "Other sites"
+msgstr "Otros sitios"
+
+#: report/aa_dashboard_377da97c-3097-4c0b-9315-125270b9f935.class.php:235
+msgid "Direct clickthroughs"
+msgstr "Clics directos"
+
+#: driver/wordpress.class.php:1776 driver/wordpress.class.php:1781
+#: report/ab_siteUsage_377da97c-3097-4c0b-9315-125270b9f935.class.php:15
+msgid "Site traffic"
+msgstr "Tráfico del sitio"
+
+#: report/ab_siteUsage_377da97c-3097-4c0b-9315-125270b9f935.class.php:104
+msgid "Information on visits to your site"
+msgstr "Información sobre las visitas a su sitio"
+
+#: report/ab_siteUsage_377da97c-3097-4c0b-9315-125270b9f935.class.php:110
+msgid "Average per hour"
+msgstr "Promedio por hora"
+
+#: report/ab_siteUsage_377da97c-3097-4c0b-9315-125270b9f935.class.php:110
+msgid "Average per day"
+msgstr "Promedio por día"
+
+#: report/ab_siteUsage_377da97c-3097-4c0b-9315-125270b9f935.class.php:111
+msgid "Total"
+msgstr "Total"
+
+#: report/ac_pageViewPerUser_377da97c-3097-4c0b-9315-125270b9f935.class.php:15
+msgid "Page views per visitor"
+msgstr "Páginas vistas por visitantes"
+
+#: report/ac_pageViewPerUser_377da97c-3097-4c0b-9315-125270b9f935.class.php:51
+#: report/ad_pageViewPerRobot_377da97c-3097-4c0b-9315-125270b9f935.class.php:51
+msgid "1 page"
+msgstr "1 página"
+
+#: report/ac_pageViewPerUser_377da97c-3097-4c0b-9315-125270b9f935.class.php:55
+msgid "2 pages"
+msgstr "2 páginas"
+
+#: report/ac_pageViewPerUser_377da97c-3097-4c0b-9315-125270b9f935.class.php:59
+msgid "3 pages"
+msgstr "3 páginas"
+
+#: report/ac_pageViewPerUser_377da97c-3097-4c0b-9315-125270b9f935.class.php:63
+msgid "4 pages"
+msgstr "4 páginas"
+
+#: report/ac_pageViewPerUser_377da97c-3097-4c0b-9315-125270b9f935.class.php:67
+msgid "5 pages"
+msgstr "5 páginas"
+
+#: report/ac_pageViewPerUser_377da97c-3097-4c0b-9315-125270b9f935.class.php:71
+msgid "from 6 to 9 pages"
+msgstr "desde 6 a 9 páginas"
+
+#: report/ac_pageViewPerUser_377da97c-3097-4c0b-9315-125270b9f935.class.php:75
+msgid "from 10 to 20 pages"
+msgstr "desde 10 a 20 páginas"
+
+#: report/ac_pageViewPerUser_377da97c-3097-4c0b-9315-125270b9f935.class.php:79
+#: report/ad_pageViewPerRobot_377da97c-3097-4c0b-9315-125270b9f935.class.php:63
+msgid "from 21 to 50 pages"
+msgstr "desde 21 a 50 páginas"
+
+#: report/ac_pageViewPerUser_377da97c-3097-4c0b-9315-125270b9f935.class.php:83
+#: report/ad_pageViewPerRobot_377da97c-3097-4c0b-9315-125270b9f935.class.php:67
+msgid "from 51 to 100 pages"
+msgstr "desde 51 a 100 páginas"
+
+#: report/ac_pageViewPerUser_377da97c-3097-4c0b-9315-125270b9f935.class.php:87
+msgid "over 100 pages"
+msgstr "más de 100 de páginas"
+
+#: report/ac_pageViewPerUser_377da97c-3097-4c0b-9315-125270b9f935.class.php:92
+msgid "Number of users that viewed the stated number of pages"
+msgstr "Número de usuarios que vieron El indicador del número de la página "
+
+#: driver/wordpress.class.php:1515
+#: report/ac_pageViewPerUser_377da97c-3097-4c0b-9315-125270b9f935.class.php:95
+#: report/dc_geoCountry_3fbec588-fbf5-4521-a406-64689b250530.class.php:55
+#: report/dd_geoCity_3fbec588-fbf5-4521-a406-64689b250530.class.php:60
+msgid "Unique visitors"
+msgstr "Únicos visitantes"
+
+#: report/ac_pageViewPerUser_377da97c-3097-4c0b-9315-125270b9f935.class.php:96
+msgid "Average number of views per user"
+msgstr "Número de promedio de vistas por usuario"
+
+#: report/ad_pageViewPerRobot_377da97c-3097-4c0b-9315-125270b9f935.class.php:15
+msgid "Pages received per robot"
+msgstr "Páginas recibidas por robot"
+
+#: report/ad_pageViewPerRobot_377da97c-3097-4c0b-9315-125270b9f935.class.php:55
+#: report/ad_pageViewPerRobot_377da97c-3097-4c0b-9315-125270b9f935.class.php:59
+msgid "from 2 to 9 pages"
+msgstr "desde 2 a 9 páginas"
+
+#: report/ad_pageViewPerRobot_377da97c-3097-4c0b-9315-125270b9f935.class.php:71
+msgid "from 101 to 150 pages"
+msgstr "desde 101a 150 páginas"
+
+#: report/ad_pageViewPerRobot_377da97c-3097-4c0b-9315-125270b9f935.class.php:75
+msgid "from 151 to 200 pages"
+msgstr "desde 151 a 200 páginas"
+
+#: report/ad_pageViewPerRobot_377da97c-3097-4c0b-9315-125270b9f935.class.php:79
+msgid "from 201 to 250 pages"
+msgstr "desde 201 a 250 páginas"
+
+#: report/ad_pageViewPerRobot_377da97c-3097-4c0b-9315-125270b9f935.class.php:83
+msgid "from 251 to 500 pages"
+msgstr "desde 251 a 500 páginas"
+
+#: report/ad_pageViewPerRobot_377da97c-3097-4c0b-9315-125270b9f935.class.php:87
+msgid "over 500 pages"
+msgstr "más de 500 páginas "
+
+#: report/ad_pageViewPerRobot_377da97c-3097-4c0b-9315-125270b9f935.class.php:92
+msgid "Number of robots or spiders that downloaded the stated number of pages"
+msgstr "Número de robots o arañas que descargaron el indicador de número de páginas"
+
+#: report/ad_pageViewPerRobot_377da97c-3097-4c0b-9315-125270b9f935.class.php:94
+msgid "Pages received"
+msgstr "Página recibidas"
+
+#: report/ad_pageViewPerRobot_377da97c-3097-4c0b-9315-125270b9f935.class.php:95
+msgid "Unique robots"
+msgstr "Robots únicos"
+
+#: report/ad_pageViewPerRobot_377da97c-3097-4c0b-9315-125270b9f935.class.php:96
+msgid "Average number of pages per robot"
+msgstr "Promedio número de páginas por robot"
+
+#: report/ae_timeLoad_377da97c-3097-4c0b-9315-125270b9f935.class.php:15
+#: report/ae_timeLoad_377da97c-3097-4c0b-9315-125270b9f935.class.php:94
+#: report/af_clickMap_377da97c-3097-4c0b-9315-125270b9f935.class.php:30
+msgid "Time of downloading the pages"
+msgstr "Tiempo de descarga de páginas"
+
+#: report/ae_timeLoad_377da97c-3097-4c0b-9315-125270b9f935.class.php:43
+msgid "Less than one second"
+msgstr "Menos de un segundo"
+
+#: report/ae_timeLoad_377da97c-3097-4c0b-9315-125270b9f935.class.php:47
+#: report/ae_timeLoad_377da97c-3097-4c0b-9315-125270b9f935.class.php:51
+#: report/ae_timeLoad_377da97c-3097-4c0b-9315-125270b9f935.class.php:55
+msgid "seconds "
+msgstr "segundos"
+
+#: report/ae_timeLoad_377da97c-3097-4c0b-9315-125270b9f935.class.php:59
+#: report/ae_timeLoad_377da97c-3097-4c0b-9315-125270b9f935.class.php:63
+#: report/ae_timeLoad_377da97c-3097-4c0b-9315-125270b9f935.class.php:67
+#: report/ae_timeLoad_377da97c-3097-4c0b-9315-125270b9f935.class.php:71
+#: report/ae_timeLoad_377da97c-3097-4c0b-9315-125270b9f935.class.php:75
+#: report/ae_timeLoad_377da97c-3097-4c0b-9315-125270b9f935.class.php:79
+#: report/ae_timeLoad_377da97c-3097-4c0b-9315-125270b9f935.class.php:83
+msgid "seconds"
+msgstr "segundos"
+
+#: report/ae_timeLoad_377da97c-3097-4c0b-9315-125270b9f935.class.php:87
+msgid "Over a minute"
+msgstr "Más de un minuto"
+
+#: report/ae_timeLoad_377da97c-3097-4c0b-9315-125270b9f935.class.php:92
+#: report/af_clickMap_377da97c-3097-4c0b-9315-125270b9f935.class.php:28
+msgid "Time of downloading the page on the client's side"
+msgstr "Tiempo en descargarse la página en el lado del cliente"
+
+#: report/ae_timeLoad_377da97c-3097-4c0b-9315-125270b9f935.class.php:95
+#: report/af_clickMap_377da97c-3097-4c0b-9315-125270b9f935.class.php:31
+#: report/ba_popularPages_72fb852f-71e7-4802-af52-8f4bf17b091b.class.php:52
+#: report/bb_popularTitles_72fb852f-71e7-4802-af52-8f4bf17b091b.class.php:59
+#: report/bd_popular404_72fb852f-71e7-4802-af52-8f4bf17b091b.class.php:80
+#: report/ca_referrer_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:82
+#: report/cb_refDomain_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:77
+#: report/cg_link404_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:60
+msgid "Number of views"
+msgstr "Número de vistas"
+
+#: report/ae_timeLoad_377da97c-3097-4c0b-9315-125270b9f935.class.php:96
+#: report/af_clickMap_377da97c-3097-4c0b-9315-125270b9f935.class.php:32
+msgid "Average time of downloading the pages"
+msgstr "Promedio de tiempo en descarga de páginas"
+
+#: report/ba_popularPages_72fb852f-71e7-4802-af52-8f4bf17b091b.class.php:17
+msgid "Popular pages"
+msgstr "Páginas populares"
+
+#: report/ba_popularPages_72fb852f-71e7-4802-af52-8f4bf17b091b.class.php:48
+msgid "Popular addresses of pages visited by users"
+msgstr "Direcciones populares de páginas visitadas por usuarios"
+
+#: report/ba_popularPages_72fb852f-71e7-4802-af52-8f4bf17b091b.class.php:50
+#: report/bb_popularTitles_72fb852f-71e7-4802-af52-8f4bf17b091b.class.php:56
+#: report/bd_popular404_72fb852f-71e7-4802-af52-8f4bf17b091b.class.php:77
+#: report/ca_referrer_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:78
+#: report/cb_refDomain_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:74
+#: report/cg_link404_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:57
+msgid "Main page"
+msgstr "Página principal"
+
+#: report/ba_popularPages_72fb852f-71e7-4802-af52-8f4bf17b091b.class.php:51
+#: report/bd_popular404_72fb852f-71e7-4802-af52-8f4bf17b091b.class.php:78
+#: report/ca_referrer_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:79
+msgid "Page address"
+msgstr "Dirección de página"
+
+#: report/ba_popularPages_72fb852f-71e7-4802-af52-8f4bf17b091b.class.php:53
+#: report/bb_popularTitles_72fb852f-71e7-4802-af52-8f4bf17b091b.class.php:60
+msgid "Total number of page views"
+msgstr "Número total de páginas vistas"
+
+#: report/ba_popularPages_72fb852f-71e7-4802-af52-8f4bf17b091b.class.php:54
+msgid "Number of unique page addresses"
+msgstr "Número de direcciones de   páginas únicas"
+
+#: report/bb_popularTitles_72fb852f-71e7-4802-af52-8f4bf17b091b.class.php:17
+msgid "Popular titles"
+msgstr "Títulos populares"
+
+#: report/bb_popularTitles_72fb852f-71e7-4802-af52-8f4bf17b091b.class.php:54
+msgid "Popular titles of pages visited by users"
+msgstr "Títulos populares de páginas visitadas por usuarios"
+
+#: report/bb_popularTitles_72fb852f-71e7-4802-af52-8f4bf17b091b.class.php:57
+msgid "Page title"
+msgstr "Título de página"
+
+#: report/bb_popularTitles_72fb852f-71e7-4802-af52-8f4bf17b091b.class.php:58
+msgid "NO TITLE"
+msgstr "Sin título"
+
+#: report/bb_popularTitles_72fb852f-71e7-4802-af52-8f4bf17b091b.class.php:61
+msgid "Number of unique page titles"
+msgstr "Número de títulos de páginas únicas"
+
+#: report/bb_popularTitles_72fb852f-71e7-4802-af52-8f4bf17b091b.class.php:62
+msgid "Number of addresses with this title"
+msgstr "Número de direcciones con este título"
+
+#: report/bc_domainNames_72fb852f-71e7-4802-af52-8f4bf17b091b.class.php:17
+msgid "Domain names"
+msgstr "Nombres de dominios"
+
+#: report/bc_domainNames_72fb852f-71e7-4802-af52-8f4bf17b091b.class.php:122
+msgid "Visits and scans by domains"
+msgstr "Visitas y scanes por dominio"
+
+#: report/bc_domainNames_72fb852f-71e7-4802-af52-8f4bf17b091b.class.php:124
+#: report/cb_refDomain_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:75
+msgid "Domain name"
+msgstr "Nombre de dominio"
+
+#: report/bd_popular404_72fb852f-71e7-4802-af52-8f4bf17b091b.class.php:21
+msgid "Popular error 404 pages"
+msgstr "Error popular 400 páginas"
+
+#: report/bd_popular404_72fb852f-71e7-4802-af52-8f4bf17b091b.class.php:75
+msgid "Popular non-existent pages visited by users or robots"
+msgstr "Popular no-existente páginas visitadas por usuario o robots"
+
+#: report/bd_popular404_72fb852f-71e7-4802-af52-8f4bf17b091b.class.php:79
+msgid "Referring pages"
+msgstr "Páginas de referencia"
+
+#: report/bd_popular404_72fb852f-71e7-4802-af52-8f4bf17b091b.class.php:81
+#: report/cg_link404_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:61
+msgid "Users / Robots"
+msgstr "Usuarios / Robots"
+
+#: report/ca_referrer_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:17
+msgid "Referring addresses"
+msgstr "Direcciones de referencia"
+
+#: report/ca_referrer_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:76
+msgid "Rating of popular page addresses, from which the users clicked through to your site"
+msgstr "Valoración  de direcciones de las páginas populares, de las que los usuarios han hecho clic a través de usted"
+
+#: report/ca_referrer_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:80
+#: report/cb_refDomain_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:76
+msgid "Clickthrough pages"
+msgstr "Haga clic a través de páginas"
+
+#: report/ca_referrer_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:83
+msgid "Direct visits"
+msgstr "Visitas directas"
+
+#: report/ca_referrer_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:84
+msgid "Clickthroughs from sites"
+msgstr "Clics desde los sitios"
+
+#: report/cb_refDomain_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:17
+msgid "Referring domains"
+msgstr "Referencia de dominios"
+
+#: report/cb_refDomain_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:72
+msgid "Rating of popular domains, from which the users clicked through to your site"
+msgstr "Valoración  de dominios populares, desde la que los usuarios han hecho clic a través de su página"
+
+#: report/cc_searchEngine_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:59
+msgid "List of search engines, from which the users clicked through to your site"
+msgstr "Lista de motores de búsqueda, de la que los usuarios han hecho clic a través de tu sitio"
+
+#: report/cc_searchEngine_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:61
+#: report/cd_socialNetwork_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:54
+#: report/ce_mailService_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:54
+msgid "Name"
+msgstr "Nombre"
+
+#: report/cc_searchEngine_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:62
+#: report/cd_socialNetwork_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:55
+#: report/ce_mailService_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:55
+msgid "Clickthroughs"
+msgstr "Clics de búsqueda"
+
+#: report/cc_searchEngine_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:63
+#: report/cf_searchQuery_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:51
+msgid "Unidentified search phrases"
+msgstr "Frases de búsqueda no identificadas"
+
+#: report/cc_searchEngine_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:64
+msgid "Other search engines"
+msgstr "Otros motores de búsqueda"
+
+#: report/cd_socialNetwork_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:52
+msgid "List of social media, from which the users clicked through to your site"
+msgstr "Lista de medios de comunicación social, de la que los usuarios han hecho clic a través de tu sitio"
+
+#: report/ce_mailService_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:52
+msgid "List of online mail services, from which the users clicked through to your site"
+msgstr "Lista de los servicios de correo en línea, desde la que los usuarios han hecho clic a través de tu sitio"
+
+#: report/cf_searchQuery_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:17
+msgid "Search phrases"
+msgstr "Frases de búsqueda"
+
+#: report/cf_searchQuery_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:47
+msgid "Search phrases, by which your site has been found"
+msgstr "Buscar frases, por el cual su sitio frase de búsqueda se ha encontrado"
+
+#: report/cf_searchQuery_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:49
+msgid "Search phrase"
+msgstr "Frase de búsqueda"
+
+#: report/cf_searchQuery_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:50
+msgid "Total search phrases"
+msgstr "Total de frases de búsqueda"
+
+#: report/cf_searchQuery_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:52
+msgid "Page found"
+msgstr "Página encontrada"
+
+#: report/cg_link404_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:17
+msgid "Links to 404 pages"
+msgstr "Enlaces a 404 páginas"
+
+#: report/cg_link404_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:55
+msgid "Pages referring to non-existent pages or files"
+msgstr "Página referencia a las páginas o archivos inexistentes"
+
+#: report/cg_link404_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:58
+msgid "Addresses of non-existent pages"
+msgstr "Direcciones de páginas que no existen"
+
+#: report/cg_link404_bdb2d1a3-41ba-47e9-a476-6ded1ba6e627.class.php:59
+msgid "Referring page"
+msgstr "Página de referencia"
+
+#: report/da_ipAdressesUser_3fbec588-fbf5-4521-a406-64689b250530.class.php:17
+msgid "IP addresses of visitors"
+msgstr "IP de direcciones de red de los visitantes"
+
+#: report/da_ipAdressesUser_3fbec588-fbf5-4521-a406-64689b250530.class.php:48
+msgid "Network addresses of visitors"
+msgstr "Red de direcciones de los visitantes"
+
+#: driver/wordpress.class.php:1594
+#: report/da_ipAdressesUser_3fbec588-fbf5-4521-a406-64689b250530.class.php:50
+#: report/db_ipAdressesRobot_3fbec588-fbf5-4521-a406-64689b250530.class.php:50
+#: report/fb_settings_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:48
+msgid "IP address"
+msgstr "IP de las direcciones"
+
+#: report/db_ipAdressesRobot_3fbec588-fbf5-4521-a406-64689b250530.class.php:17
+msgid "IP addresses of robots and spiders"
+msgstr "IP direcciones de robots y arañas red de robots y arañas"
+
+#: report/db_ipAdressesRobot_3fbec588-fbf5-4521-a406-64689b250530.class.php:48
+msgid "Network addresses of robots and spiders"
+msgstr "Las direcciones de red de robots y arañas"
+
+#: report/dc_geoCountry_3fbec588-fbf5-4521-a406-64689b250530.class.php:17
+msgid "Countries of visitors"
+msgstr "Países de visitantes"
+
+#: report/dc_geoCountry_3fbec588-fbf5-4521-a406-64689b250530.class.php:52
+#: report/dd_geoCity_3fbec588-fbf5-4521-a406-64689b250530.class.php:57
+msgid "List of countries, from which your site is visited"
+msgstr "Lista de países, de los que su sitio es visitado"
+
+#: report/dc_geoCountry_3fbec588-fbf5-4521-a406-64689b250530.class.php:54
+msgid "Country"
+msgstr "País"
+
+#: report/dc_geoCountry_3fbec588-fbf5-4521-a406-64689b250530.class.php:56
+msgid "Visitors with unidentified country"
+msgstr "Visitantes con el país no identificado"
+
+#: report/ea_userAgentUser_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:17
+msgid "User-Agent of visitors"
+msgstr "Usuario-Agente de visitantes"
+
+#: report/ea_userAgentUser_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:56
+msgid "Client application using a certain network protocol"
+msgstr "Aplicación de cliente utilizando una determinada línea en red de protocolo"
+
+#: report/ea_userAgentUser_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:58
+#: report/eb_userAgentRobot_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:58
+msgid "User-Agent line"
+msgstr "Usuario-agente de red"
+
+#: report/ea_userAgentUser_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:60
+#: report/eb_userAgentRobot_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:60
+msgid "Total unique User-Agents"
+msgstr "Único totales de Usuario-Agentes"
+
+#: report/ea_userAgentUser_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:61
+#: report/eb_userAgentRobot_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:61
+msgid "Total unidentified User-Agents"
+msgstr "Único totales de usuario-Agentes no identificados"
+
+#: report/eb_userAgentRobot_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:17
+msgid "User-Agent robots and spiders"
+msgstr "Usuario-Agentes robots y arañas"
+
+#: report/eb_userAgentRobot_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:56
+msgid "Identification line sent by robots or spiders"
+msgstr "Identificación en línea enviada por robots y arañas"
+
+#: report/ec_acceptLanguage_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:17
+msgid "Visitors' system language"
+msgstr "Sistema de idiomas de los visitantes"
+
+#: report/ec_acceptLanguage_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:56
+msgid "Visitor's default browser language"
+msgstr "Navegador por defecto de idioma de los visitantes"
+
+#: report/ec_acceptLanguage_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:58
+msgid "Visitor's language"
+msgstr "Idioma de los visitantes"
+
+#: report/ec_acceptLanguage_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:60
+msgid "Total unique languages"
+msgstr "Total único de idiomas"
+
+#: report/ec_acceptLanguage_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:61
+msgid "Total unidentified languages"
+msgstr "Total de idiomas no identificados"
+
+#: report/ed_robots_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:73
+msgid "Robots and spiders visiting your site"
+msgstr "Robots y arañas visitando su sitio"
+
+#: report/ed_robots_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:75
+msgid "Robot name"
+msgstr "Nombre de Robot"
+
+#: report/ed_robots_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:77
+#: report/ee_operatingSystem_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:95
+#: report/ef_browsers_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:82
+msgid "Version"
+msgstr "Versión"
+
+#: report/ed_robots_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:78
+msgid "Total unique robots or spiders"
+msgstr "Totales únicos de robots o arañas"
+
+#: report/ed_robots_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:79
+msgid "Total masking robots"
+msgstr "Totales de robots enmascarados"
+
+#: report/ee_operatingSystem_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:17
+msgid "Operating systems"
+msgstr "Sistemas operativos"
+
+#: report/ee_operatingSystem_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:36
+msgid "Unidentified"
+msgstr "No identificado"
+
+#: report/ee_operatingSystem_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:91
+msgid "Rating of operating systems, their versions and bit-counts"
+msgstr "Valoración de sistemas operativos, sus versiones y bit-recuentos"
+
+#: report/ee_operatingSystem_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:93
+msgid "Name of the operating system"
+msgstr "Nombre del sistema operativo"
+
+#: report/ee_operatingSystem_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:96
+msgid "System bit-count"
+msgstr "Cuenta de bits del sistema"
+
+#: driver/wordpress.class.php:1583
+#: report/ee_operatingSystem_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:97
+msgid "bits"
+msgstr "bits"
+
+#: report/ee_operatingSystem_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:98
+msgid "Total unique operating systems"
+msgstr "Total único de sistemas operativos"
+
+#: report/ee_operatingSystem_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:99
+msgid "Total unidentified operating systems"
+msgstr "Total de sistemas operativos no identificados"
+
+#: report/ef_browsers_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:17
+msgid "Browsers"
+msgstr "Navegadores"
+
+#: report/ef_browsers_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:77
+msgid "Rating of browsers and their versions used by visitors"
+msgstr "Valoración de los navegadores y sus versiones utilizado por visitantes"
+
+#: report/ef_browsers_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:79
+msgid "Browser name"
+msgstr "Nombre del navegador"
+
+#: report/ef_browsers_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:83
+msgid "Total unique browsers"
+msgstr "Total único de navegadores"
+
+#: report/ef_browsers_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:84
+msgid "Total unidentified browsers"
+msgstr "Total de navegadores no identificados"
+
+#: report/eg_screenDepth_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:17
+msgid "Screen color depth"
+msgstr "Pantalla a color profundidad"
+
+#: report/eg_screenDepth_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:46
+msgid "16.777.216 colour variations and 256 transparency gradations"
+msgstr "16.777.216 variaciones de color y transparencia 256 gradaciones de tamaño variaciones de color"
+
+#: report/eg_screenDepth_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:49
+msgid "colour variations"
+msgstr "variaciones de color"
+
+#: report/eg_screenDepth_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:61
+msgid "Memory size in bits assigned for storing the colour of one pixel and the real number of displayed colours and shades"
+msgstr "Tamaño de memoria en bits asignados para almacenar el color de un píxel y los colores y matices"
+
+#: report/eg_screenDepth_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:63
+msgid "Pixel color depth on the screen"
+msgstr "Pixel profundidad de color que se muestra real en la pantalla"
+
+#: report/eg_screenDepth_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:65
+msgid "bits per pixel"
+msgstr "bits por pixel"
+
+#: report/eg_screenDepth_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:66
+msgid "Total unique colour resolutions of the screen"
+msgstr "Totales únicos de resoluciones de color de pantalla"
+
+#: report/eg_screenDepth_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:67
+msgid "Maximum screen color depth"
+msgstr "Máxima profundidad de color de pantalla"
+
+#: report/eg_screenDepth_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:68
+msgid "Minimum screen color depth"
+msgstr "Mínima profundidad de color de pantalla"
+
+#: report/eh_screenResolution_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:17
+msgid "Screen resolutions"
+msgstr "Resoluciones de pantalla"
+
+#: report/eh_screenResolution_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:58
+msgid "Width and height of the visitor's screens in pixels"
+msgstr "Anchura y la altura de las pantallas del visitante en píxeles"
+
+#: report/eh_screenResolution_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:60
+msgid "Screen sizes in pixels"
+msgstr "Los tamaños de pantalla en píxeles"
+
+#: report/eh_screenResolution_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:62
+msgid "Total unique screen resolutions"
+msgstr "Total de resoluciones de pantalla únicos"
+
+#: report/eh_screenResolution_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:63
+msgid "Maximum screen resolution"
+msgstr "Máxima resolución de la pantalla"
+
+#: report/eh_screenResolution_bcbd4b71-f45f-47fe-85ff-27b1e68499ef.class.php:64
+msgid "Minimum screen resolution"
+msgstr "Resolución mínima de pantalla"
+
+#: report/fa_dbSize_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:15
+msgid "Reporting database size"
+msgstr "Tamaño de la base de datos de informes"
+
+#: report/fa_dbSize_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:54
+msgid "Size of data used for storing the site visiting statistics"
+msgstr "Tamaño de los datos utilizados para almacenar el sitio visitante estadísticas"
+
+#: report/fa_dbSize_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:56
+#: report/fa_dbSize_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:74
+msgid "Bytes"
+msgstr "Bytes"
+
+#: report/fa_dbSize_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:75
+msgid "Kilobytes"
+msgstr "Kilobytes"
+
+#: report/fa_dbSize_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:76
+msgid "Megabytes"
+msgstr "Megabytes"
+
+#: report/fa_dbSize_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:77
+msgid "Gigabytes"
+msgstr "Gigabytes"
+
+#: report/fa_dbSize_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:78
+msgid "Terabytes"
+msgstr "Terabytes"
+
+#: report/fa_dbSize_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:79
+msgid "Petabytes"
+msgstr "Petabytes"
+
+#: report/fa_dbSize_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:80
+msgid "Exabytes"
+msgstr "Exabytes"
+
+#: report/fa_dbSize_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:81
+msgid "Zettabytes"
+msgstr "Zettabytes"
+
+#: report/fa_dbSize_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:82
+msgid "Yottabytes"
+msgstr "Yottabytes"
+
+#: report/fa_dbSize_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:83
+msgid "Brontobytes"
+msgstr "Brontobytes"
+
+#: report/fa_dbSize_a0e1c952-effc-4c6d-9f90-b8b8c855e889.class.php:84
+msgid "Geopbytes"
+msgstr "Geopbytes"

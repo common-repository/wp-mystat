@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0" type="component" method="upgrade" client="administrator">
+	<name>mySTAT</name>
+	<author>Smyshlaev Evgeniy</author>
+	<creationDate>February 2016</creationDate>
+	<copyright>Copyright (C) 2008 - 2017 SINKAI LLC. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later</license>
+	<authorEmail>info@my-stat.com</authorEmail>
+	<authorUrl>my-stat.com</authorUrl>
+	<version>3.12</version>
+	<description>MyStat is a flexible and versatile system intended for accumulation and analysis of the site attendance statistics. myStat suits to upcoming projects perfectly. There are more than 50 reports available in the system. The system is easy to install and to set up; it allows counting all the visitors of your web-site - both humans and robots. All visits data is stored at your server, which meets safety and confidentiality requirements.</description>
+  <administration>
+		<menu link="option=com_mystat">MY_STATISTICS</menu>
+    <files>
+    	<filename>index.php</filename>
+    	<filename>mystat.php</filename>
+  		<filename>driver/joomla.class.php</filename>
+  		<filename>theme/template.xsl</filename>
+      <folder>lib</folder>
+      <folder>asset</folder>
+      <folder>report</folder>
+      <folder>theme/joomla</folder>
+    </files>
+    <languages folder="language">
+      <language tag="en-GB">en-GB.com_mystat.ini</language>
+      <language tag="en-GB">en-GB.com_mystat.sys.ini</language>
+      <language tag="ru-RU">ru-RU.com_mystat.ini</language>
+      <language tag="ru-RU">ru-RU.com_mystat.sys.ini</language>
+      <language tag="uk-UA">uk-UA.com_mystat.ini</language>
+      <language tag="uk-UA">uk-UA.com_mystat.sys.ini</language>
+      <language tag="de-DE">de-DE.com_mystat.ini</language>
+      <language tag="de-DE">de-DE.com_mystat.sys.ini</language>
+      <language tag="es-ES">es-ES.com_mystat.ini</language>
+      <language tag="es-ES">es-ES.com_mystat.sys.ini</language>
+      <language tag="pl-PL">pl-PL.com_mystat.ini</language>
+      <language tag="pl-PL">pl-PL.com_mystat.sys.ini</language>
+    </languages>
+	</administration>
+  <updateservers>
+    <server type="extension" priority="1" name="mySTAT">http://my-stat.com/update/joomla.xml</server>
+  </updateservers>
+  <scriptfile>index.php</scriptfile>
+</extension>
